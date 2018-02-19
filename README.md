@@ -1,2 +1,2 @@
 # EntertainmentCenter
-Entertainment news website
+This is my entertainment news website
